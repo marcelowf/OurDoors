@@ -1,4 +1,4 @@
-namespace OurDoors.Models;
+namespace OurDoorsApp.Models;
 
 public class ErrorViewModel
 {

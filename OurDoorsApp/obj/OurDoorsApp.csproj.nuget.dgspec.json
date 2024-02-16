@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\OurDoors\\OurDoors\\OurDoors.csproj": {}
+    "C:\\OurDoors\\OurDoors\\OurDoorsApp\\OurDoorsApp.csproj": {}
   },
   "projects": {
-    "C:\\OurDoors\\OurDoors\\OurDoors.csproj": {
+    "C:\\OurDoors\\OurDoors\\OurDoorsApp\\OurDoorsApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\OurDoors\\OurDoors\\OurDoors.csproj",
-        "projectName": "OurDoors",
-        "projectPath": "C:\\OurDoors\\OurDoors\\OurDoors.csproj",
+        "projectUniqueName": "C:\\OurDoors\\OurDoors\\OurDoorsApp\\OurDoorsApp.csproj",
+        "projectName": "OurDoorsApp",
+        "projectPath": "C:\\OurDoors\\OurDoors\\OurDoorsApp\\OurDoorsApp.csproj",
         "packagesPath": "C:\\Users\\MICRO\\.nuget\\packages\\",
-        "outputPath": "C:\\OurDoors\\OurDoors\\obj\\",
+        "outputPath": "C:\\OurDoors\\OurDoors\\OurDoorsApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\MICRO\\AppData\\Roaming\\NuGet\\NuGet.Config"

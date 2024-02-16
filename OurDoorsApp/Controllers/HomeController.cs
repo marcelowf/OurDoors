@@ -1,8 +1,8 @@
 using System.Diagnostics;
 using Microsoft.AspNetCore.Mvc;
-using OurDoors.Models;
+using OurDoorsApp.Models;
 
-namespace OurDoors.Controllers;
+namespace OurDoorsApp.Controllers;
 
 public class HomeController : Controller
 {
